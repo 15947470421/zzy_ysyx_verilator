@@ -1,0 +1,10 @@
+top=top
+
+a (SW3, SW2, SW1, SW0)
+b (SW7, SW6, SW5, SW4)
+op (SW11, SW10, SW9)
+
+result (LD3, LD2, LD1, LD0)
+zero LD5
+c_out LD6
+of LD7
