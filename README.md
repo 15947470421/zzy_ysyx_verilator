@@ -1,0 +1,2 @@
+# zzy_ysyx_verilator
+一生一芯项目verilator文件夹
